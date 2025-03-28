@@ -1,0 +1,422 @@
+GDP
+
+
+Table name : quaterly_estimates_of_gdp
+
+{
+  "query": "What was the GVA for the manufacturing sector in Q1 of 2023",
+  "result": [
+    {
+      "year": "2023-24",
+      "item": "Manufacturing",
+      "quater": "Q1",
+      "value": 914820,
+      "price_type": "current price"
+    },
+    {
+      "year": "2023-24",
+      "item": "Manufacturing",
+      "quater": "Q1",
+      "value": 656922,
+      "price_type": "constant price"
+    }
+  ]
+}
+
+{
+  "query": "Can you find the total GVA for the secondary sector across all quarters in 2023?\"",
+  "result": [
+    {
+      "year": "2023-24",
+      "total_gva": 7089649,
+      "price_type": "current price"
+    },
+    {
+      "year": "2023-24",
+      "total_gva": 4646499,
+      "price_type": "constant price"
+    }
+  ]
+}
+
+
+Table name:quaterly_estimates_of_expenditure_components_gdp
+{
+  "query": "What is the Government Final Consumption Expenditure for all quarters in 2023 constant price?",
+  "result": [
+    {
+      "year": "2023-24",
+      "quarter": "Q1",
+      "value": 415961,
+      "price_type": "Constant Price"
+    },
+    {
+      "year": "2023-24",
+      "quarter": "Q2",
+      "value": 383709,
+      "price_type": "Constant Price"
+    },
+    {
+      "year": "2023-24",
+      "quarter": "Q3",
+      "value": 341402,
+      "price_type": "Constant Price"
+    },
+    {
+      "year": "2023-24",
+      "quarter": "Q4",
+      "value": 512261,
+      "price_type": "Constant Price"
+    }
+  ]
+}
+{
+  "query": "What was the Private Final Consumption Expenditure in Q1 of 2011 at current prices?",
+  "result": [
+    {
+      "value": 1196398,
+      "year": "2011-12",
+      "item": "Private final consumption expenditure",
+      "quater": "Q1",
+      "price_type": "Current Price"
+    }
+  ]
+}
+
+Table name:
+{
+  "query": "List the years where Per Capita PFCE exceeded ₹50,000 at constant prices.",
+  "result": [
+    {
+      "year": "2016-17",
+      "value": 53120
+    },
+    {
+      "year": "2017-18",
+      "value": 55789
+    },
+    {
+      "year": "2018-19",
+      "value": 59159
+    },
+    {
+      "year": "2019-20",
+      "value": 61568
+    },
+    {
+      "year": "2020-21",
+      "value": 57691
+    },
+    {
+      "year": "2021-22",
+      "value": 63807
+    },
+    {
+      "year": "2022-23",
+      "value": 67423
+    }
+  ]
+}
+
+
+{
+  "query": "Show the Per Capita GNI at constant prices for 2022.",
+  "result": [
+    {
+      "year": "2022-23",
+      "item": "Per Capita GNI ( ₹) ",
+      "population": 1382,
+      "value_category": "constant price",
+      "value": 114478
+    }
+  ]
+}
+
+
+Table name: provisional_estimateso_gdp_macro_economic_aggregates
+
+{
+  "query": "What was the provisional estimate of GDP for the year 2023?",
+  "result": [
+    {
+      "year": "2023-24",
+      "item": "Gross Domestic Product (GDP)",
+      "category": "Domestic Product",
+      "price_type": "Current Prices",
+      "value": 29535667
+    },
+    {
+      "year": "2023-24",
+      "item": "Gross Domestic Product (GDP)",
+      "category": "Domestic Product",
+      "price_type": "Constant Prices",
+      "value": 17381722
+    }
+  ]
+}
+
+
+Table name : gross_state_value
+{
+  "query": "Compare the GSVA at current prices for the primary, secondary, and tertiary sectors in Karnataka from 2020 to 2023.",
+  "result": [
+    {
+      "state": "Karnataka",
+      "sector": "Primary",
+      "year": "2020-21",
+      "value": 23981715,
+      "gross_state_value_added_at": "current price"
+    },
+    {
+      "state": "Karnataka",
+      "sector": "Primary",
+      "year": "2021-22",
+      "value": 28527032,
+      "gross_state_value_added_at": "current price"
+    },
+    {
+      "state": "Karnataka",
+      "sector": "Primary",
+      "year": "2022-23",
+      "value": 29725382,
+      "gross_state_value_added_at": "current price"
+    },
+    {
+      "state": "Karnataka",
+      "sector": "Primary",
+      "year": "2023-24",
+      "value": 31469971,
+      "gross_state_value_added_at": "current price"
+    },
+    {
+      "state": "Karnataka",
+      "sector": "Secondary",
+      "year": "2020-21",
+      "value": 30394979,
+      "gross_state_value_added_at": "current price"
+    },
+    {
+      "state": "Karnataka",
+      "sector": "Secondary",
+      "year": "2021-22",
+      "value": 37739354,
+      "gross_state_value_added_at": "current price"
+    },
+    {
+      "state": "Karnataka",
+      "sector": "Secondary",
+      "year": "2022-23",
+      "value": 42085202,
+      "gross_state_value_added_at": "current price"
+    },
+    {
+      "state": "Karnataka",
+      "sector": "Secondary",
+      "year": "2023-24",
+      "value": 44992451,
+      "gross_state_value_added_at": "current price"
+    },
+    {
+      "state": "Karnataka",
+      "sector": "Tertiary",
+      "year": "2020-21",
+      "value": 96490199,
+      "gross_state_value_added_at": "current price"
+    },
+    {
+      "state": "Karnataka",
+      "sector": "Tertiary",
+      "year": "2021-22",
+      "value": 116064597,
+      "gross_state_value_added_at": "current price"
+    },
+    {
+      "state": "Karnataka",
+      "sector": "Tertiary",
+      "year": "2022-23",
+      "value": 135819626,
+      "gross_state_value_added_at": "current price"
+    },
+    {
+      "state": "Karnataka",
+      "sector": "Tertiary",
+      "year": "2023-24",
+      "value": 153267222,
+      "gross_state_value_added_at": "current price"
+    }
+  ]
+}
+{
+  "query": "List the top 3 states with the highest GSVA in the construction sector in 2022.",
+  "result": [
+    {
+      "state": "Tamil Nadu",
+      "value": 26936570,
+      "gross_state_value_added_at": "current price",
+      "year": "2022-23"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "value": 26308392,
+      "gross_state_value_added_at": "current price",
+      "year": "2022-23"
+    },
+    {
+      "state": "Maharashtra",
+      "value": 22618444,
+      "gross_state_value_added_at": "current price",
+      "year": "2022-23"
+    }
+  ]
+}
+{
+  "query": "What was the Gross State Value Added (GSVA) for the agriculture sector in Maharashtra in 2023?",
+  "result": [
+    {
+      "state": "Maharashtra",
+      "sector": "Agriculture, forestry and fishing",
+      "year": "2023-24",
+      "value": 22689448,
+      "gross_state_value_added_at": "constant price"
+    },
+    {
+      "state": "Maharashtra",
+      "sector": "Agriculture, forestry and fishing",
+      "year": "2023-24",
+      "value": 39453670,
+      "gross_state_value_added_at": "current price"
+    }
+  ]
+}
+
+
+Table name: annual_estimate_gdp_crore
+
+
+{
+  "query": "What was What is the GDP estimate for the manufacturing sector in 2023? ",
+  "result": [
+    {
+      "items": "Manufacturing",
+      "price_type": "constant",
+      "time_period": "annual",
+      "years": "2023-24",
+      "value": 2825935.31
+    },
+    {
+      "items": "Manufacturing",
+      "price_type": "current",
+      "time_period": "annual",
+      "years": "2023-24",
+      "value": 3921595.873
+    }
+  ]
+}
+
+{
+  "query": "Provide the Net Taxes on Products for 2021.",
+  "result": {
+    "net_taxes_on_products": [
+      {
+        "year": "2021-22",
+        "item": "Net Taxes on Products",
+        "value": 1145006,
+        "price_type": "constant price",
+        "calculation": "Taxes on Products including import duties (1579572) - Less Subsidies on Products (434566)"
+      },
+      {
+        "year": "2021-22",
+        "item": "Net Taxes on Products",
+        "value": 1961815,
+        "price_type": "current price",
+        "calculation": "Taxes on Products including import duties (2639347) - Less Subsidies on Products (677532)"
+      }
+    ]
+  }
+}
+
+Table identified => annual_estimate_gdp_growth_rate
+{
+  "query": "What was the GDP growth rate last year?",
+  "result": [
+    {
+      "items": "GDP ",
+      "price_type": "constant",
+      "years": "2024-25",
+      "value": 6.48422363
+    },
+    {
+      "items": "GDP ",
+      "price_type": "current",
+      "years": "2024-25",
+      "value": 9.893646258
+    }
+  ]
+}
+
+{
+  "query": "How did the GDP growth rate of the manufacturing sector change from 2020 to 2023?",
+  "result": [
+    {
+      "items": "Manufacturing",
+      "years": "2020-21",
+      "value": 3.073610993,
+      "price_type": "constant"
+    },
+    {
+      "items": "Manufacturing",
+      "years": "2020-21",
+      "value": 3.637348837,
+      "price_type": "current"
+    },
+    {
+      "items": "Manufacturing",
+      "years": "2021-22",
+      "value": 9.955219672,
+      "price_type": "constant"
+    },
+    {
+      "items": "Manufacturing",
+      "years": "2021-22",
+      "value": 21.01341841,
+      "price_type": "current"
+    },
+    {
+      "items": "Manufacturing",
+      "years": "2022-23",
+      "value": -1.744196563,
+      "price_type": "constant"
+    },
+    {
+      "items": "Manufacturing",
+      "years": "2022-23",
+      "value": 4.193288875,
+      "price_type": "current"
+    },
+    {
+      "items": "Manufacturing",
+      "years": "2023-24",
+      "value": 12.30234146,
+      "price_type": "constant"
+    },
+    {
+      "items": "Manufacturing",
+      "years": "2023-24",
+      "value": 10.94042325,
+      "price_type": "current"
+    }
+  ]
+}
+{
+  "query": "What was the average GDP growth rate over the last five years?\"",
+  "result": [
+    {
+      "price_type": "current",
+      "average_gdp_growth_rate": 12.69803531273076
+    },
+    {
+      "price_type": "constant",
+      "average_gdp_growth_rate": 9.33079799717693
+    }
+  ]
+}

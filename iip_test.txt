@@ -1,0 +1,189 @@
+IIP
+
+
+{
+  "query": "What is the IIP index for the year 2023-24?",
+  "result": [
+    {
+      "year": "2023-24",
+      "type": "General",
+      "category": "General",
+      "index_value": 146.7
+    }
+  ]
+}
+
+{
+  "query": "What was the IIP index value for Mining in 2018?",
+  "result": [
+    {
+      "year": "2018-19",
+      "type": "Sectoral",
+      "category": "Mining",
+      "sub_category": "*",
+      "index_value": 107.9
+    }
+  ]
+}
+
+{
+  "query": "What is the growth rate for the Manufacturing sector in 2023?",
+  "result": [
+    {
+      "year": "2023-24",
+      "type": "Sectoral",
+      "category": "Manufacturing",
+      "sub_category": "*",
+      "growth_rate_percentage": 5.5
+    }
+  ]
+}
+{
+  "query": "What’s the growth rate of the tobacco manufacturing sector?",
+  "result": [
+    {
+      "year": "2023-24",
+      "type": "Sectoral",
+      "category": "Manufacturing",
+      "sub_category": "Manufacture of Tobacco Products",
+      "index_value": 81.1,
+      "growth_rate_percentage": -8.3
+    }
+  ]
+}
+
+{
+  "query": "Find the subcategories in the Manufacturing sector with a growth rate below 0 in 2023",
+  "result": [
+    {
+      "sub_category": "Manufacture of Tobacco Products",
+      "growth_rate_percentage": -8.3
+    },
+    {
+      "sub_category": "Manufacture of Wearing Apparel",
+      "growth_rate_percentage": -14.1
+    },
+    {
+      "sub_category": "Other Manufacturing",
+      "growth_rate_percentage": -6.2
+    },
+    {
+      "sub_category": "Manufacture of Furniture",
+      "growth_rate_percentage": -5.5
+    },
+    {
+      "sub_category": "Manufacture of Computer, Electronic and Optical Products",
+      "growth_rate_percentage": -11.3
+    },
+    {
+      "sub_category": "Manufacture of Leather and Related Products",
+      "growth_rate_percentage": -1
+    },
+    {
+      "sub_category": "Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",
+      "growth_rate_percentage": -5.9
+    },
+    {
+      "sub_category": "Manufacture of Paper and Paper Products",
+      "growth_rate_percentage": -3.6
+    },
+    {
+      "sub_category": "Printing and Reproduction of Recorded Media",
+      "growth_rate_percentage": -1.4
+    },
+    {
+      "sub_category": "Manufacture of Chemicals and Chemical Products",
+      "growth_rate_percentage": -1.5
+    }
+  ]
+}
+
+{
+  "query": "Find the subcategories where the IIP index has declined consecutively for the past two years.",
+  "result": [
+    {
+      "year": "2022-23",
+      "category": "Manufacturing",
+      "sub_category": "Manufacture of Computer, Electronic and Optical Products",
+      "index_value": 137.2,
+      "growth_rate_percentage": -6.4
+    },
+    {
+      "year": "2023-24",
+      "category": "Manufacturing",
+      "sub_category": "Manufacture of Computer, Electronic and Optical Products",
+      "index_value": 121.7,
+      "growth_rate_percentage": -11.3
+    },
+    {
+      "year": "2022-23",
+      "category": "Manufacturing",
+      "sub_category": "Manufacture of Leather and Related Products",
+      "index_value": 96,
+      "growth_rate_percentage": -5.8
+    },
+    {
+      "year": "2023-24",
+      "category": "Manufacturing",
+      "sub_category": "Manufacture of Leather and Related Products",
+      "index_value": 95,
+      "growth_rate_percentage": -1
+    },
+    {
+      "year": "2022-23",
+      "category": "Manufacturing",
+      "sub_category": "Manufacture of Tobacco Products",
+      "index_value": 88.4,
+      "growth_rate_percentage": -0.6
+    },
+    {
+      "year": "2023-24",
+      "category": "Manufacturing",
+      "sub_category": "Manufacture of Tobacco Products",
+      "index_value": 81.1,
+      "growth_rate_percentage": -8.3
+    },
+    {
+      "year": "2022-23",
+      "category": "Manufacturing",
+      "sub_category": "Manufacture of Wearing Apparel",
+      "index_value": 127.9,
+      "growth_rate_percentage": -7.4
+    },
+    {
+      "year": "2023-24",
+      "category": "Manufacturing",
+      "sub_category": "Manufacture of Wearing Apparel",
+      "index_value": 109.9,
+      "growth_rate_percentage": -14.1
+    },
+    {
+      "year": "2022-23",
+      "category": "Manufacturing",
+      "sub_category": "Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",
+      "index_value": 104.5,
+      "growth_rate_percentage": -0.8
+    },
+    {
+      "year": "2023-24",
+      "category": "Manufacturing",
+      "sub_category": "Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",
+      "index_value": 98.3,
+      "growth_rate_percentage": -5.9
+    },
+    {
+      "year": "2022-23",
+      "category": "Manufacturing",
+      "sub_category": "Other Manufacturing",
+      "index_value": 90.9,
+      "growth_rate_percentage": -3
+    },
+    {
+      "year": "2023-24",
+      "category": "Manufacturing",
+      "sub_category": "Other Manufacturing",
+      "index_value": 85.3,
+      "growth_rate_percentage": -6.2
+    }
+  ]
+}

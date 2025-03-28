@@ -1,0 +1,415 @@
+Table cpi_data
+
+{
+  "query": "Get the inflation percentage for Footwear in Gujarat in February 2025",
+  "result": [
+    {
+      "year": 2025,
+      "month": "February",
+      "month_numeric": 2,
+      "state": "Gujarat",
+      "sector": "Combined",
+      "group_name": "Clothing and Footwear",
+      "sub_group_name": "Footwear",
+      "inflation_percentage": 2.99
+    },
+    {
+      "year": 2025,
+      "month": "February",
+      "month_numeric": 2,
+      "state": "Gujarat",
+      "sector": "Rural",
+      "group_name": "Clothing and Footwear",
+      "sub_group_name": "Footwear",
+      "inflation_percentage": 2.46
+    },
+    {
+      "year": 2025,
+      "month": "February",
+      "month_numeric": 2,
+      "state": "Gujarat",
+      "sector": "Urban",
+      "group_name": "Clothing and Footwear",
+      "sub_group_name": "Footwear",
+      "inflation_percentage": 3.51
+    }
+  ]
+}
+
+{
+  "query": "what is inflation of agra",
+  "result": [
+    {
+      "year": 2025,
+      "month": "February",
+      "month_numeric": 2,
+      "state": "Uttar Pradesh",
+      "sector": "Combined",
+      "group_name": "General",
+      "sub_group_name": "*",
+      "inflation_percentage": 3.56
+    }
+  ]
+}
+
+{
+  "query": "\": \"Retrieve CPI inflation for Cereals and Products in Maharashtra in feb 2025 along with rural ,urban, combined\",",
+  "result": [
+    {
+      "year": 2025,
+      "month": "February",
+      "month_numeric": 2,
+      "state": "Maharashtra",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Cereals and Products",
+      "index_value": 198.9,
+      "inflation_percentage": 3.86
+    },
+    {
+      "year": 2025,
+      "month": "February",
+      "month_numeric": 2,
+      "state": "Maharashtra",
+      "sector": "Rural",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Cereals and Products",
+      "index_value": 204.9,
+      "inflation_percentage": 2.86
+    },
+    {
+      "year": 2025,
+      "month": "February",
+      "month_numeric": 2,
+      "state": "Maharashtra",
+      "sector": "Urban",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Cereals and Products",
+      "index_value": 193.1,
+      "inflation_percentage": 4.89
+    }
+  ]
+}
+
+
+{
+  "query": "Get the inflation rate for the General category in All India for March 2024\",",
+  "result": [
+    {
+      "year": 2024,
+      "month": "March",
+      "month_numeric": 3,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "General",
+      "sub_group_name": "*",
+      "inflation_percentage": 4.85
+    }
+  ]
+}
+
+{
+  "query": "What is the inflation rate for Egg in All India for feb 2025?",
+  "result": [
+    {
+      "year": 2025,
+      "month": "February",
+      "month_numeric": 2,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Egg",
+      "inflation_percentage": -3.01
+    },
+    {
+      "year": 2025,
+      "month": "February",
+      "month_numeric": 2,
+      "state": "All India",
+      "sector": "Rural",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Egg",
+      "inflation_percentage": -3.42
+    },
+    {
+      "year": 2025,
+      "month": "February",
+      "month_numeric": 2,
+      "state": "All India",
+      "sector": "Urban",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Egg",
+      "inflation_percentage": -2.3
+    }
+  ]
+}
+
+{
+  "query": "Compare the inflation rates of Meat and Fish and Vegetables for All India in 2023.",
+  "result": [
+    {
+      "year": 2023,
+      "month": "April",
+      "month_numeric": 4,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Meat and Fish",
+      "index_value": 209.3,
+      "inflation_percentage": -1.18
+    },
+    {
+      "year": 2023,
+      "month": "April",
+      "month_numeric": 4,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Vegetables",
+      "index_value": 155.4,
+      "inflation_percentage": -6.5
+    },
+    {
+      "year": 2023,
+      "month": "August",
+      "month_numeric": 8,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Meat and Fish",
+      "index_value": 214.1,
+      "inflation_percentage": 3.68
+    },
+    {
+      "year": 2023,
+      "month": "August",
+      "month_numeric": 8,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Vegetables",
+      "index_value": 235.4,
+      "inflation_percentage": 26.08
+    },
+    {
+      "year": 2023,
+      "month": "December",
+      "month_numeric": 12,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Meat and Fish",
+      "index_value": 211.3,
+      "inflation_percentage": 1.1
+    },
+    {
+      "year": 2023,
+      "month": "December",
+      "month_numeric": 12,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Vegetables",
+      "index_value": 204.1,
+      "inflation_percentage": 27.64
+    },
+    {
+      "year": 2023,
+      "month": "February",
+      "month_numeric": 2,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Meat and Fish",
+      "index_value": 207.3,
+      "inflation_percentage": 3.34
+    },
+    {
+      "year": 2023,
+      "month": "February",
+      "month_numeric": 2,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Vegetables",
+      "index_value": 150.1,
+      "inflation_percentage": -11.55
+    },
+    {
+      "year": 2023,
+      "month": "January",
+      "month_numeric": 1,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Meat and Fish",
+      "index_value": 210.7,
+      "inflation_percentage": 6.04
+    },
+    {
+      "year": 2023,
+      "month": "January",
+      "month_numeric": 1,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Vegetables",
+      "index_value": 153.9,
+      "inflation_percentage": -11.7
+    },
+    {
+      "year": 2023,
+      "month": "July",
+      "month_numeric": 7,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Meat and Fish",
+      "index_value": 217.8,
+      "inflation_percentage": 2.25
+    },
+    {
+      "year": 2023,
+      "month": "July",
+      "month_numeric": 7,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Vegetables",
+      "index_value": 250.2,
+      "inflation_percentage": 37.4
+    },
+    {
+      "year": 2023,
+      "month": "June",
+      "month_numeric": 6,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Meat and Fish",
+      "index_value": 222.6,
+      "inflation_percentage": 1.46
+    },
+    {
+      "year": 2023,
+      "month": "June",
+      "month_numeric": 6,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Vegetables",
+      "index_value": 181.1,
+      "inflation_percentage": -0.66
+    },
+    {
+      "year": 2023,
+      "month": "March",
+      "month_numeric": 3,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Meat and Fish",
+      "index_value": 207.7,
+      "inflation_percentage": -1.42
+    },
+    {
+      "year": 2023,
+      "month": "March",
+      "month_numeric": 3,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Vegetables",
+      "index_value": 152.8,
+      "inflation_percentage": -8.45
+    },
+    {
+      "year": 2023,
+      "month": "May",
+      "month_numeric": 5,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Meat and Fish",
+      "index_value": 214.3,
+      "inflation_percentage": -1.24
+    },
+    {
+      "year": 2023,
+      "month": "May",
+      "month_numeric": 5,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Vegetables",
+      "index_value": 161,
+      "inflation_percentage": -7.95
+    },
+    {
+      "year": 2023,
+      "month": "November",
+      "month_numeric": 11,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Meat and Fish",
+      "index_value": 214,
+      "inflation_percentage": 2.2
+    },
+    {
+      "year": 2023,
+      "month": "November",
+      "month_numeric": 11,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Vegetables",
+      "index_value": 215.5,
+      "inflation_percentage": 17.7
+    },
+    {
+      "year": 2023,
+      "month": "October",
+      "month_numeric": 10,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Meat and Fish",
+      "index_value": 217.8,
+      "inflation_percentage": 3.27
+    },
+    {
+      "year": 2023,
+      "month": "October",
+      "month_numeric": 10,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Vegetables",
+      "index_value": 205.3,
+      "inflation_percentage": 2.8
+    },
+    {
+      "year": 2023,
+      "month": "September",
+      "month_numeric": 9,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Meat and Fish",
+      "index_value": 217.7,
+      "inflation_percentage": 4.06
+    },
+    {
+      "year": 2023,
+      "month": "September",
+      "month_numeric": 9,
+      "state": "All India",
+      "sector": "Combined",
+      "group_name": "Food and Beverages",
+      "sub_group_name": "Vegetables",
+      "index_value": 198.4,
+      "inflation_percentage": 3.44
+    }
+  ]
+}
